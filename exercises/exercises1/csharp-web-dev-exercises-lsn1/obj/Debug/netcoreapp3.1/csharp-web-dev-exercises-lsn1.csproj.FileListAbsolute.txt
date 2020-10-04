@@ -1,0 +1,11 @@
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/bin/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/bin/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.deps.json
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/bin/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.runtimeconfig.json
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/bin/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.runtimeconfig.dev.json
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/bin/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.dll
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/bin/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.pdb
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/obj/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.csprojAssemblyReference.cache
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/obj/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.AssemblyInfoInputs.cache
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/obj/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.AssemblyInfo.cs
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/obj/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.dll
+/Users/sallysteuterman/Development/LaunchCode/CSharp/csharp-web-dev-exercises-lsn1/csharp-web-dev-exercises-lsn1/obj/Debug/netcoreapp3.1/csharp-web-dev-exercises-lsn1.pdb

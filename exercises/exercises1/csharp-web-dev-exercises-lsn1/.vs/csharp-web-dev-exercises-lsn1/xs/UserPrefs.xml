@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D43C4BA0-DC24-47A6-868D-5DD966BF1C16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csharp-web-dev-exercises-lsn1-2/Program.cs">
+    <Files>
+      <File FileName="csharp-web-dev-exercises-lsn1-2/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="csharp-web-dev-exercises-lsn1" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.csharp-web-dev-exercises-lsn1-2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
